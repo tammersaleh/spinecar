@@ -1,4 +1,5 @@
-spinecar
-========
+# spinecar
 
-Multi-machine docker container orchestration
+Multi-machine docker.io container orchestration
+
+![spine car](spinecar.png)
