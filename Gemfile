@@ -1,4 +1,5 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "tugboat"
+gem "thor"
+gem "net-ssh-gateway"
